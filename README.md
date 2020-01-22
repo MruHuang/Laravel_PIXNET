@@ -1,4 +1,9 @@
-Laravel_PIXNET面試題目-猜數字(幾A幾B)
-
-用laravel寫猜數字小遊戲
-簡單建構出laravel route的使用方法
+# laravel猜數字小遊戲
+## Laravel_PIXNET面試題目-猜數字(幾A幾B)
++ 該目標為簡易學習如何使用laravel的一些基本特性route與blade的溝通運用
++ 歡迎超級初學者進行參考
+## 主要使用laraavel技術
++ route的使用方法
++ blade的互動程式
++ route與blade的互動
++ 簡易controller使用
