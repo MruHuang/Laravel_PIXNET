@@ -37,7 +37,7 @@ PHP工程師 面試前測驗
   1. 例外狀況判斷。
   1. 沒有使用任何過時的語法，例如：HTTP_*_VARS
 
-## 主要使用laraavel技術
+## 主要使用laravel技術
 + route的使用方法
 + blade的互動程式
 + route與blade的互動
